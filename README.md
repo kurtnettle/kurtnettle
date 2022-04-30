@@ -16,18 +16,34 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">CP Related Accounts:</h3>
-<p align="left"> 
-  <a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer"> <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="Codeforces" width="90" height="30"/> </a> <a href="https://coderbyte.com/profile/KurtNettle" target="_blank" rel="noreferrer"> <img src="https://coderbytestaticimages.s3.amazonaws.com/dashboard-v3/coderbyte_logo_digital_white.png" alt="Coderbyte" width="90" height="30"/> </a> <a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer"> <img src="https://stx1.spoj.com/gfx/2015e.png" alt="SPOJ" width="100" height="30"/> </a>   <a href="https://www.beecrowd.com.br/judge/en/profile/650796" target="_blank" rel="noreferrer"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/beecrowd__roxoVert_%281%29_%281%29.png" alt="beecrowd" width="100" height="40"/> </a></p>
+<p align="left">
+  <ul>
+    <li><a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer">Codeforce</a></li>
+    <li><a href="https://coderbyte.com/profile/KurtNettle" target="_blank" rel="noreferrer">CoderByte</a></li>
+    <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
+    <li><a href="https://www.beecrowd.com.br/judge/en/profile/650796" target="_blank" rel="noreferrer">BeeCrowd</a></li>
+    <li><a href="https://toph.co/u/KurtNettle" target="_blank" rel="noreferrer">Toph</a></li>
+    <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
+    <li><a href="https://www.codewars.com/users/_KurtNettle_" target="_blank" rel="noreferrer">CodeWars</a></li>
+  </ul>
+</p>
 
 
 <h3 align="left">CTF Related Accounts:</h3>
-
+<p align="left">
+  <ul>
+    <li><a href="https://app.hackthebox.com/profile/1035368" target="_blank" rel="noreferrer">HackTheBox</a></li>
+    <li><a href="https://play.picoctf.org/users/KurtNettle" target="_blank" rel="noreferrer">PicoCTF</a></li>
+  </ul>
+</p>
 
 <h3 align="left">Languages:</h3>
 
 <p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <ul>
+    <li>Python</li>
+    <li>C++</li>
+    <li>Kotlin</li>
+  </ul>
 </p>
 
