@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <p align="left">
   <ul>
     <li><a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer">Codeforce</a></li>
+    <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
     <li><a href="https://coderbyte.com/profile/KurtNettle" target="_blank" rel="noreferrer">CoderByte</a></li>
     <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
     <li><a href="https://www.beecrowd.com.br/judge/en/profile/650796" target="_blank" rel="noreferrer">BeeCrowd</a></li>
     <li><a href="https://toph.co/u/KurtNettle" target="_blank" rel="noreferrer">Toph</a></li>
-    <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
     <li><a href="https://www.codewars.com/users/_KurtNettle_" target="_blank" rel="noreferrer">CodeWars</a></li>
   </ul>
 </p>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <p align="left">
   <ul>
     <li><a href="https://app.hackthebox.com/profile/1035368" target="_blank" rel="noreferrer">HackTheBox</a></li>
+    <li><a href="https://tryhackme.com/p/KurtNettle" target="_blank" rel="noreferrer">TryHackMe</a></li>
     <li><a href="https://play.picoctf.org/users/KurtNettle" target="_blank" rel="noreferrer">PicoCTF</a></li>
   </ul>
 </p>
