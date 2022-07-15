@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <h3 align="left">CP Related Accounts:</h3>
 <p align="left">
   <ul>
+    <li><a href="https://www.stopstalk.com/user/profile/kurtnettle" target="_blank" rel="noreferrer">StopStalk</a></li>
     <li><a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer">Codeforce</a></li>
+    <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
     <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
     <li><a href="https://coderbyte.com/profile/KurtNettle" target="_blank" rel="noreferrer">CoderByte</a></li>
-    <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
     <li><a href="https://www.beecrowd.com.br/judge/en/profile/650796" target="_blank" rel="noreferrer">BeeCrowd</a></li>
     <li><a href="https://toph.co/u/KurtNettle" target="_blank" rel="noreferrer">Toph</a></li>
     <li><a href="https://www.codewars.com/users/_KurtNettle_" target="_blank" rel="noreferrer">CodeWars</a></li>
@@ -42,9 +43,9 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <ul>
-    <li>Python</li>
-    <li>C++</li>
-    <li>Kotlin</li>
+    <li>Python (Advanced)</li>
+    <li>C++ (Basic)</li>
+    <li>Kotlin (Basic)</li>
   </ul>
 </p>
 
