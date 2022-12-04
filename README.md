@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <li><a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer">Codeforce</a></li>
     <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
     <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
+    <li><a href="https://vjudge.net/user/KurtNettle" target="_blank" rel="noreferrer">Vjudge</a></li>
     <li><a href="https://coderbyte.com/profile/KurtNettle" target="_blank" rel="noreferrer">CoderByte</a></li>
     <li><a href="https://www.beecrowd.com.br/judge/en/profile/650796" target="_blank" rel="noreferrer">BeeCrowd</a></li>
     <li><a href="https://toph.co/u/KurtNettle" target="_blank" rel="noreferrer">Toph</a></li>
