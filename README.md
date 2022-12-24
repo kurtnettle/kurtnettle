@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left">
   <ul>
     <li><a href="https://www.stopstalk.com/user/profile/kurtnettle" target="_blank" rel="noreferrer">StopStalk</a></li>
-    <li><a href="https://codeforces.com/profile/_KurtNettle_" target="_blank" rel="noreferrer">Codeforce</a></li>
+    <li><a href="https://codeforces.com/profile/kurtnettle" target="_blank" rel="noreferrer">Codeforce</a></li>
     <li><a href="https://www.spoj.com/users/kurtnettle" target="_blank" rel="noreferrer">SPOJ</a></li>
     <li><a href="https://atcoder.jp/users/KurtNettle" target="_blank" rel="noreferrer">AtCoder</a></li>
     <li><a href="https://vjudge.net/user/KurtNettle" target="_blank" rel="noreferrer">Vjudge</a></li>
