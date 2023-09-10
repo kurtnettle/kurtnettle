@@ -41,13 +41,14 @@ Here are some ideas to get you started:
   </ul>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 
 <p align="left"> 
   <ul>
     <li>Python (Advanced)</li>
     <li>C++ (Basic)</li>
     <li>Kotlin (Basic)</li>
+    <li>Javascript (Basic)</li>
   </ul>
 </p>
 
