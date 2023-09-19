@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 <p align="left"> 
   <ul>
     <li>Python (Advanced)</li>
-    <li>C++ (Basic)</li>
+    <li>C++ (Moderate)</li>
     <li>Kotlin (Basic)</li>
     <li>Javascript (Basic)</li>
+    <li>Java (Basic)</li>
   </ul>
 </p>
 
