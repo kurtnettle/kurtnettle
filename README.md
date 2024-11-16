@@ -35,9 +35,12 @@ Here are some ideas to get you started:
 <h3 align="left">CTF Related Accounts:</h3>
 <p align="left">
   <ul>
+    <li><a href="https://ctftime.org/user/211271" target="_blank" rel="noreferrer">CTFtime</a></li>
     <li><a href="https://app.hackthebox.com/profile/1035368" target="_blank" rel="noreferrer">HackTheBox</a></li>
     <li><a href="https://tryhackme.com/p/KurtNettle" target="_blank" rel="noreferrer">TryHackMe</a></li>
     <li><a href="https://play.picoctf.org/users/KurtNettle" target="_blank" rel="noreferrer">PicoCTF</a></li>
+    <li><a href="https://cyberdefenders.org/p/kurtnettle" target="_blank" rel="noreferrer">CyberDefense</a></li>
+    <li><a href="https://app.letsdefend.io/user/kurtnettle" target="_blank" rel="noreferrer">LetsDefend</a></li>
   </ul>
 </p>
 
