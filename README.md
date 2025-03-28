@@ -105,3 +105,8 @@ Problem postmortems and personal reflections - lessons from hands-on experience.
 Unfiltered thoughts and mental spaghetti
 
 [![Hashnode](https://img.shields.io/badge/@hello__kurtnettle-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/hello_kurtnettle)](https://t.me/hello_kurtnettle)
+
+<p align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=kurtnettle&style=for-the-badge&color=3E424B" alt="profile counter"/>
+</p>
