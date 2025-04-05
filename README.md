@@ -47,34 +47,30 @@ alt="Kotlin" height="40" width="40" />
     <tr>
       <td><strong>Web Development</strong></td>
       <td>
-        <img alt=Svelte height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg title=Svelte width=40>
-        <img alt=TailwindCSS height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg title=TailwindCSS width=40>      </td>
+        SvelteKit, TailwindCSS
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
       <td>
-        <img alt=FastAPI height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg title=FastAPI width=40>
-        <img alt=Supabase height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg title=Supabase width=40>
+        FastAPI, Supabase
       </td>
     </tr>
     <tr>
       <td><strong>Mobile Development</strong></td>
       <td>
-        <img alt="Jetpack Compose"height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg title="Jetpack Compose"width=40>
+        Jetpack Compose
       </td>
     </tr>    
     <tr>
       <td><strong>Testing Frameworks</strong></td>
       <td>
-        <img alt=pytest height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg title=pytest width=40>
-        <img alt=Jest height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg title=Jest width=40>
+        PyTest, Jest
       </td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
       <td>
-        <img alt=Docker height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg title=Docker width=40>
-        <img alt=Git height=40 src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg title=Git width=40>
+        Docker, Git
       </td>      
     </tr>    
   </tbody>
