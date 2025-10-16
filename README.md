@@ -16,7 +16,7 @@ _I try to engage in competitive programming and capture-the-flag challenges **wh
 | [SPOJ](https://www.spoj.com/users/kurtnettle) | [PicoCTF](https://play.picoctf.org/users/KurtNettle) |
 | [AtCoder](https://atcoder.jp/users/KurtNettle) | [CyberDefense](https://cyberdefenders.org/p/kurtnettle) |
 | [Vjudge](https://vjudge.net/user/KurtNettle) | [LetsDefend](https://app.letsdefend.io/user/kurtnettle) |
-| [CoderByte](https://coderbyte.com/profile/KurtNettle) |
+| [CoderByte](https://coderbyte.com/profile/KurtNettle) | [WeChall](https://www.wechall.net/profile/kurtnettle) |
 | [BeeCrowd](https://www.beecrowd.com.br/judge/en/profile/650796) |
 | [Toph](https://toph.co/u/KurtNettle) |
 | [CodeWars](https://www.codewars.com/users/kurtnettle) |
