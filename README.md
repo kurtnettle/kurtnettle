@@ -81,7 +81,7 @@ _I use Arch btw_
 ---
 
 ### 🌐 How about getting connected?
-[![LinkedIn](https://img.shields.io/badge/Shaikh_Shafeen-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/shaikh-shafeen)](https://www.linkedin.com/in/shaikh-shafeen)
+[![LinkedIn](https://img.shields.io/badge/Shaikh_Shafeen-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/kurtnettle)](https://www.linkedin.com/in/kurtnettle)
 [![Email](https://img.shields.io/badge/shafeen@duck.com-Email-22D172?style=for-the-badge&logo=gmail&logoColor=22D172&link=mailto:shafeen@duck.com)](mailto:shafeen@duck.com)
 
 ### 💬 Social Accounts (Let's Chat?)
